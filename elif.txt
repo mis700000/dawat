@@ -1,0 +1,12 @@
+The elif Statement 
+The elif statement allows you to check multiple expressions for truth value and execute a block of code as soon as one of the conditions evaluates to true. 
+Like the else, the elif statement is optional. However, unlike else, for which there can be at most one statement, there can be an arbitrary number of elif statements following an if. 
+The syntax of the if...elif statement is: 
+if expression1: 
+statement(s) 
+elif expression2: 
+statement(s) 
+elif expression3: 
+statement(s) 
+else: 
+statement(s) 

@@ -1,0 +1,2 @@
+dict = {"La Ilaha Illallah":"{"Ilah":"Allah","style":"Muhammad"},"Key to Paradise":"prayer","Four points":["Knowledge","Zikr","Honouring the muslim brother","Sincerity of intension","Dawat and Tabligh"]} 
+             

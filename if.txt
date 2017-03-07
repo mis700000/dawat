@@ -1,0 +1,8 @@
+If statements 
+The if statement of Python is similar to that of other languages. The if statement contains a logical expression using which data is compared, and a decision is made based on the result of the comparison. 
+
+Python programming language assumes any non-zero and non-null values as true and if it is eitherzero or null then it is assumed as false value.
+Syntax: 
+
+if expression: 
+statement(s) 
